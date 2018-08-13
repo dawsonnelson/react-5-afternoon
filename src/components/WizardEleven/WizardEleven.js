@@ -137,7 +137,7 @@ function mapStateToProps(state) {
         cost: state.cost,
         downPayment: state.downPayment,
         credit: state.credit,
-        history: state.credit,
+        history: state.history,
         addressOne: state.addressOne,
         addressTwo: state.addressTwo,
         addressThree: state.addressThree,
